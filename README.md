@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------
-# .gitignore for WordPress @salcode
+# .gitignore for WordPress
 # to download this file
 #
 # By default all files are ignored.  You'll need to whitelist
